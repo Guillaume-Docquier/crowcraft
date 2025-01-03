@@ -1,6 +1,7 @@
 all_sprites/
 .metals/
 .vscode/
+.idea
 
 # dependencies
 /node_modules
