@@ -18,7 +18,7 @@ You will need [Node.js](https://nodejs.org/en/) v15.7.0 or higher (lower may wor
 If you have [nvm](https://github.com/nvm-sh/nvm) installed, run `nvm install`.  
 You will also need an editor. I recommend [WebStorm](https://www.jetbrains.com/webstorm/) (it is free for non-commercial use!).  
 Once this is installed, run ``npm ci`` to install 3rd party libraries, then ``npm run start`` will start a local dev server.  
-``npm run deploy`` will build the app and copy the files in the right place. Do this if you want your changes to be deployed after you commit and push.  
+Pushing to the `main` branch will automatically publish to the GitHub page via actions.
 
 ### Python Tools
 You will need this if you plan to work on item data.  
