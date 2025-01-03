@@ -5,7 +5,7 @@
 Crowcraft is a ``React.js`` app built with ``Create React App``.  
 You will find the usual React code in the ``public/`` and ``src/`` folders.  
 
-The app is deployed as a [github page](https://pages.github.com/) by building the code and copying the content in the root folder. Github handles the deployment automatically.  
+The app is deployed as a [github page](https://pages.github.com/) automatically publish to the GitHub page via actions.
 
 ### Python Tools
 The ``data-parser/`` folder is a collection of python tools for generating the javascript code for all the items based on the [data spreadsheet](https://docs.google.com/spreadsheets/d/1_VVrggn0nQrVEnUZ43qCUy4MMPXE2T0wzI0N-5nBskQ/edit?usp=sharing).  
